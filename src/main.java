@@ -5,6 +5,9 @@ public class main {
 		// TODO Auto-generated method stub
 		
 System.out.println("Hello World");
+int x;
+x=10+20;
+System.out.println(x);
 	}
 
 }
